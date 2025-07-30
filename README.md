@@ -3,7 +3,7 @@
 ## 1. Descarga de RobotStudio
 
 1. Ir al sitio oficial de ABB:  
-   👉 [Descargar RobotStudio](https://new.abb.com/products/robotics/es/software-y-digital/descargas-de-software)
+    [Descargar RobotStudio](https://new.abb.com/products/robotics/es/software-y-digital/descargas-de-software)
 
 2. Seleccionar el software **RobotStudio**.
 
@@ -17,7 +17,7 @@
 
 Mientras se descarga RobotStudio, puedes instalar el VPN para conectarte al servidor de licencias.
 
-1. Ir a 👉 [vpn.espol.edu.ec](https://vpn.espol.edu.ec)  
+1. Ir a  [vpn.espol.edu.ec](https://vpn.espol.edu.ec)  
    Inicia sesión con tus credenciales ESPOL.
 
    ![Login VPN](https://github.com/user-attachments/assets/a38f6591-eafe-4ad4-b638-9ff7675b2ea4)
