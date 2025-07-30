@@ -105,7 +105,7 @@ Mientras se descarga RobotStudio, puedes instalar el VPN para conectarte al serv
    ![RobotWare](https://github.com/user-attachments/assets/6b58c872-e845-471c-9484-570bd1ed33e8)
 
 3. Luego, ve a **Modelo de RobotStudio** y selecciona:  
-   `IRB 2600 12 kg 1.65 m (versión estándar, no tipo C)`.
+   `IRB 2600`.
 
    ![Modelo IRB 2600](https://github.com/user-attachments/assets/ad855e64-d9ad-4f0f-8bed-6ca96bba5ce1)
 
